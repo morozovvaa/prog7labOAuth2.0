@@ -44,6 +44,7 @@
 | **Шаг 2: Согласие** | Пользователь переходит по URL и нажимает **"Authorize"** на странице согласия GitHub, делегируя права `read:user`. | **[Вставьте Скриншот 3: Окно согласия]** *(Скриншот страницы GitHub с запросом разрешений.)* |
 
 **Скриншот процесса обмена и доступа:**
+<img width="974" height="488" alt="image" src="https://github.com/user-attachments/assets/854b8d3b-8cd7-4da1-beaa-dd5704b8b3ff" />
 
 <img width="1378" height="701" alt="image" src="https://github.com/user-attachments/assets/e40f744e-42ee-4981-94aa-3e44c462ae8e" />
 
